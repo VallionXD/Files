@@ -5,3 +5,4 @@ Storage for files since raw file hosting doesn't exist for free. Files are sorte
 > Every extension type on this repository.
 
 - mp3
+- mp4
